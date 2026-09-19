@@ -1,0 +1,6 @@
+{
+  "name": "Citadels - Dezh Board Game",
+  "description": "Turn-based multiplayer web adaptation of Citadels (Dezh / دژ) with secret character drafting, district building, and real-time state sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
